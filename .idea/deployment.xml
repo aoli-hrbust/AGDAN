@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@connect.cqa1.seetacloud.com:10094 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/AGCL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:16009 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ACGL9" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:16009 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/ACGL9" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:16459 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/AGCL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:19977 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ACGL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:19977 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ACGL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:44352 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ACGL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:46547 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ACGL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:53996 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ACGL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@root@connect.westb.seetacloud.com:46547 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ACGL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@root@connect.westc.gpuhub.com:53996 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/ACGL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
